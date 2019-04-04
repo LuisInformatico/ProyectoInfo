@@ -1,2 +1,5 @@
-# ProyectoInfo
-El proyecto de la pagina web de info https://luisinformatico.github.io/ProyectoInfo/
+<html>
+<head>
+Hola esta es mi pagina web
+</head>
+<html>
